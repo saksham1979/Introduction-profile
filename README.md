@@ -1,2 +1,1 @@
-# Introduction-profile
-This is my first Git Repository
+# my portfolio
